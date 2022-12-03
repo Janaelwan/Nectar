@@ -1,0 +1,10 @@
+String baseUrl='https://www.bazoka.eraasoft.com/api/';
+String Category='product?category=1';
+String login='login';
+String token='';
+String categories='categories';
+String categories_of_product='product?category=1';
+String updateCategoty='categories/1?_method=put';
+String showCategory='categories/2';
+String categoty_product='categories/1/products';
+String search='searchproductnames?name=product77';
